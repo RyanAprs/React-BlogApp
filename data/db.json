@@ -1,16 +1,28 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "Why do we use it?\n is a long estabilished fact that a reader will be distracted",
-            "author": "Ryan",
-            "id": 1        
-        },
-        {
-            "title": "Opening Party",
-            "body": "Why do we use it?\n is a long estabilished fact that a reader will be distracted",
-            "author": "Adi",
-            "id": 2    
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\n is a long estabilished fact that a reader will be distracted",
+      "author": "Ryan",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\n is a long estabilished fact that a reader will be distracted",
+      "author": "Adi",
+      "id": 2
+    },
+    {
+      "title": "Cuaks",
+      "body": "anjay broo",
+      "author": "ryan",
+      "id": 3
+    },
+    {
+      "title": "ANGJAY MABAR",
+      "body": "Dimas anjay mabar propesional",
+      "author": "Pery",
+      "id": 4
+    }
+  ]
 }
